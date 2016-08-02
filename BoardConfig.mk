@@ -62,7 +62,7 @@ TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android-
 endif
-TARGET_PREBUILT_KERNEL := device/google/sambar/prebuilt/kernel
+TARGET_PREBUILT_KERNEL := device/yu/sambar/prebuilt/kernel
 
 # CM Hardware
 BOARD_USES_CYANOGEN_HARDWARE := true
